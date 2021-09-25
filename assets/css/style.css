@@ -1,0 +1,214 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.header{
+    background-color: aquamarine;
+}
+
+.logo{
+    padding-left: 30px;
+    float: left;
+    width: 45%;
+    font-family: 'Acme', sans-serif;
+    color: #745964;
+    text-transform: uppercase;
+
+}
+
+.list{
+    list-style: none;
+    float: left;
+    width: 45%;
+   
+}
+ul,li{
+    display: inline-block;
+    height: 100%;
+
+}
+.navpar{
+    overflow: hidden;
+    background-color: #ca97ad;
+    position: fixed;
+    width: 100%;
+}
+
+.link{
+    text-transform: capitalize;
+    text-decoration: none;
+    font-size: 22px;
+    padding-right: 30px;
+    font-family: 'Acme', sans-serif;
+    color: #745964;
+}
+.link:hover{
+    background-color:#8b5e729d ;
+
+}
+
+.nav{
+    text-align: right;
+}
+body{
+    height: 3000px;
+}
+
+.bod{
+    height: 100vh;
+background-image: url('../image/bac5.jpg');
+background-size: cover;
+
+background-position-y:top;
+background-position-x: -900;
+
+
+}
+.fab{
+    font-size: 40px;
+    padding-right: 10px;
+    
+}
+
+h1{
+    display: inline;
+}
+.par1{
+    
+    background-color: white;
+    font-size: 25px;
+    position: relative;
+    top: 150px;
+    left: 830px;
+    width: 30%;
+    font-family: 'Acme', sans-serif;
+    padding: 10px;
+    color: #745964;
+    background-color: rgba(255, 255, 255, 0.911);
+    border-radius: 9px;
+
+}
+
+.lap{
+    background-color: rgba(0, 0, 0, 0.938);
+    color: #745964;
+    overflow: hidden;
+    padding: 80px;
+}
+
+.lapimg{
+    float: left;
+    width: 50%;
+    height: 300px;
+    border-radius: 20px;
+    
+}
+
+.lappar{
+    float: left;
+    width: 50%;
+    font-size: 25px;
+    font-family: 'Acme', sans-serif;
+
+}
+.tit1{
+    padding-bottom: 10px;
+    font-family: 'Acme', sans-serif;
+    font-size: 27px;
+}
+
+.ipa{
+    background-color: #231c1f;
+    color: #ca97ad;
+    overflow: hidden;
+    padding: 80px;
+}
+.ipaimg{
+    float: left;
+    width: 50%;
+    height: 300px;
+    border-radius: 20px;
+}
+
+.ipapar{
+    float: left;
+    width: 50%;
+    font-size: 25px;
+    font-family: 'Acme', sans-serif;
+}
+
+.tit2{
+    
+    padding-bottom: 10px;
+    font-family: 'Acme', sans-serif;
+    font-size: 27px;
+}
+
+.watch{
+    background-color: #403238;
+    color: #ca97ad;
+    overflow: hidden;
+    padding: 80px;
+}
+.watchimg{
+    float: left;
+    width: 50%;
+    height: 300px;
+    border-radius: 20px;
+}
+.watchpar{
+    float: left;
+    width: 50%;
+    font-size: 25px;
+    font-family: 'Acme', sans-serif;
+}
+.tit3{
+    
+    padding-bottom: 10px;
+    font-family: 'Acme', sans-serif;
+    font-size: 27px;
+}
+
+.iphone{
+    background-color: #745964;
+    color: #292124 ;
+    overflow: hidden;
+    padding: 80px;
+}
+
+.tit4{
+    padding-bottom: 10px;
+    font-family: 'Acme', sans-serif;
+    font-size: 27px;
+}
+
+.iphonepar{
+    float: left;
+    width: 50%;
+    font-size: 25px;
+    font-family: 'Acme', sans-serif;   
+}
+
+.iphoneimg{
+    float: left;
+    width: 50%;
+    height: 300px;
+    border-radius: 20px;
+}
+ .footer{
+     background-color: #9e7788b7;
+     padding-top: 10px;
+    text-align: center;
+    font-family: 'Acme', sans-serif;   
+    
+ }
+ .ico{
+    overflow: hidden;
+    text-align: center;
+ }
+
+ .footer .fab{
+     width: 32%;
+     float: left;
+ }
